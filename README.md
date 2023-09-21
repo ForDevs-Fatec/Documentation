@@ -59,7 +59,7 @@ processos operacionais associados através de comentários na forma de texto ori
 
 **Sprint**  |**Status** |  **Entrega**         | **Link**
 :---------: | :------:    | :-------:          | :-------:
-01          | Em Desenvolvimento  | 24/09/2023  | <a href="">Sprint 1</a> |
+01          | Em Desenvolvimento  | 24/09/2023  | <a href="https://github.com/ForDevs-Fatec/Documentation/tree/Sprint-1">Sprint 1</a> |
 02          | Inicio em 25/09  | 15/10/2023  | Sprint 2
 03          | Inicio em 16/10 | 05/11/2023   | Sprint 3
 04          | Inicio em 06/11| 26/11/2023   | Sprint 4 
