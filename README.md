@@ -25,7 +25,13 @@ Site com login para acesso a um dashboard com exibição de gráficos, uma anál
 
 ## ✅ Entregas Sprint 1
 
-### Gif
+<p align = "center">
+<img src = "https://github.com/ForDevs-Fatec/Documentation/blob/main/gif_api_frontend_Sprint%201.gif">
+
+### PLN
+<p align = "center">
+<img src = "https://github.com/ForDevs-Fatec/Documentation/blob/Sprint-1/gif_pln_sprint1.gif">
+
 
 <p align="right"><a href="#topo">Voltar ao Topo</p>
 
@@ -34,6 +40,7 @@ Site com login para acesso a um dashboard com exibição de gráficos, uma anál
 
 ## 📦️ Backlog da Sprint
 
+<p align = "center">
 <img src = "https://github.com/ForDevs-Fatec/Documentation/blob/Sprint-1/Sprint%201.jpg">
 
 <p align="right"><a href="#topo">Voltar ao Topo</p>
@@ -41,6 +48,28 @@ Site com login para acesso a um dashboard com exibição de gráficos, uma anál
 <span id="Analise">
 
 ## 📝 Análise estática dos códigos
+
+<img src = "https://github.com/ForDevs-Fatec/Documentation/blob/Sprint-1/Analise%20sprint%201.jpg">
+
+### ❗ Planejamento e Estratégia de resolução
+
+Ao analise os pontos levantados pelo SonarQube verificou-se que:
+
+➖ WEB: 
+
+Constatação: Duplicidade de 4,7%, trata-se de códico com repetição devido a layout para exibição de dados fornecidos pelo back.
+
+Estratégia: Elaborar componentes com layout pré-definidos para consumo e evitar duplicações.
+
+➖ BACK: 
+
+Constatação: 9 bugs ( 2 critical e 7 major ) todos decorrentes de promises em que retorna argumento na função onde um retorno nulo era esperado.
+
+Estratégia: Incrementar tsconfig.
+
+Constatação: 2 pontos de acesso de segurança para revisa, sendo que um trata-se de uso de cors e vulnerabilidade de impressões digitais tecnológicas.
+
+Estratégia: Certificar-se de que ativar o CORS e a divulgação das impressões digitais desta tecnologia seja segura e desenhar testes que detectem e informem para assim tratá-los.
 
 <p align="right"><a href="#topo">Voltar ao Topo</p>
 
@@ -51,17 +80,21 @@ Site com login para acesso a um dashboard com exibição de gráficos, uma anál
 
 As tarefas foram divididas em três partes: back-end, front-end e PLN, ao final da sprint chegamos ao resultado final, encontrado a baixo:
 
-
+<p align = "center">
+<img src = "https://github.com/ForDevs-Fatec/Documentation/blob/Sprint-1/Burndown%20sprint%201.jpeg">
 
 <span id="Links">
 
 ## 	🚩 Links para os Repositórios 
   
- - [Repositório da Web Sprint 1]()
+ - [Repositório código Web](https://github.com/ForDevs-Fatec/for-devs-web/tree/feature/Sprint_1)
 
- - [Repositório da Back Sprint 1]()
+ - [Repositório código Back](https://github.com/ForDevs-Fatec/for-devs-back/tree/feature/Sprint_1)
 
- - [Repositório da PLN Sprint 1]()
+ - [Repositório código PLN](https://github.com/ForDevs-Fatec/for-devs-pln/tree/feature/Sprint_1)
+
+
+<p align="right"><a href="#topo">Voltar ao Topo</p>
 
 
 <p align="right"><a href="#topo">Voltar ao Topo</p>
