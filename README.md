@@ -4,7 +4,7 @@
 <img src = "https://github.com/ForDevs-Fatec/Documentation/blob/main/logo.jpg" >
 
 
-<p align = "center"> ForDevs é um Sistema classificador de Temas referente a atributos de produtos, serviços e processos operacionais a partir de comentários de clientes.
+<p align = "center"> ForDevs é um Sistema Classificador de Temas referente a atributos de produtos, serviços e processos operacionais a partir de comentários de clientes.
  
 
 <br>
@@ -46,8 +46,7 @@
 # 🎯 Sobre o projeto 
  
 
-O projeto visa utilizar Inteligência Artificial em linguagem natural para criar classificações com maior assertividade e descobertas em relação a experiencia de compra de clientes de produtos, serviços e
-processos operacionais associados através de comentários na forma de texto oriundos de múltiplos canais.
+O projeto visa utilizar Inteligência Artificial em processamento de linguagem natural para criar classificações com maior assertividade e descobertas em relação a experiencia de compra de clientes de produtos, serviços e processos operacionais associados através de comentários na forma de texto oriundos de múltiplos canais.
 
 <p align="right"><a href="#topo">Voltar ao Topo</p> 
 
@@ -60,8 +59,8 @@ processos operacionais associados através de comentários na forma de texto ori
 **Sprint**  |**Status** |  **Entrega**         | **Link**
 :---------: | :------:    | :-------:          | :-------:
 01          | ✅  Entregue  | 24/09/2023  | <a href="https://github.com/ForDevs-Fatec/Documentation/tree/Sprint-1">Sprint 1</a> |
-02          | Em Desenvolvimento  | 15/10/2023  | Sprint 2
-03          | Inicio em 16/10 | 05/11/2023   | Sprint 3
+02          | ✅  Entregue  | 15/10/2023  | <a href="https://github.com/ForDevs-Fatec/Documentation/tree/Sprint-2">Sprint 2</a>
+03          | Em Desenvolvimento | 05/11/2023   | Sprint 3
 04          | Inicio em 06/11| 26/11/2023   | Sprint 4 
 
  
