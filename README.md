@@ -86,14 +86,12 @@ As tarefas foram divididas em três partes: back-end, front-end e PLN, ao final 
 
 ## 	🚩 Links para os Repositórios 
   
- - [Repositório código Web]()
+ - [Repositório código Web](https://github.com/ForDevs-Fatec/for-devs-web/tree/feature/Sprint_2)
 
- - [Repositório código Back]()
+ - [Repositório código Back](https://github.com/ForDevs-Fatec/for-devs-back/tree/feature/Sprint_2)
 
- - [Repositório código PLN]()
-
-
-<p align="right"><a href="#topo">Voltar ao Topo</p>
+ - [Repositório código PLN](https://github.com/ForDevs-Fatec/for-devs-pln/tree/feature/Sprint_2)
 
 
 <p align="right"><a href="#topo">Voltar ao Topo</p>
+
