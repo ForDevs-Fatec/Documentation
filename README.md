@@ -25,12 +25,15 @@ Site mais robusto com dashboard com aplicação de processamento de linguagem na
 
 ## ✅ Entregas Sprint 2
 
-<p align = "center">
-<img src = >
+Para entrega dessa Sprint, devido a especificações técnicas dos nossos recursos de hardware atuais, estamos limitados a processar até 10 mil comentários. Essa limitação se dá principalmente pela capacidade e memória disponível que impacta diretamente no volume que podemos analisar ou processar.
 
-### PLN
+É importante ressaltar que ultrapassando esse limite podemos enfrentar problemas de lentidão, travamento e até impossibilidade de processamento de dados.
+
+Embora a limitação possa ser desafiadora, é possível fazer a utilização dos recursos disponíveis e trabalhar na infraestrutura das próximas Sprints e assim expandir a capacidade de processamento.
+
+
 <p align = "center">
-<img src = >
+<img src = "https://github.com/ForDevs-Fatec/Documentation/blob/Sprint-2/Gif_Sprint%202.gif">
 
 
 <p align="right"><a href="#topo">Voltar ao Topo</p>
@@ -41,7 +44,7 @@ Site mais robusto com dashboard com aplicação de processamento de linguagem na
 ## 📦️ Backlog da Sprint
 
 <p align = "center">
-<img src = >
+<img src = "https://github.com/ForDevs-Fatec/Documentation/blob/Sprint-2/Sprint%202.jpg">
 
 <p align="right"><a href="#topo">Voltar ao Topo</p>
 
@@ -49,29 +52,23 @@ Site mais robusto com dashboard com aplicação de processamento de linguagem na
 
 ## 📝 Análise estática dos códigos
 
-<img src = >
+<img src = "https://github.com/ForDevs-Fatec/Documentation/blob/Sprint-2/Analise%20sprint%202.jpg">
 
 ### ❗ Planejamento e Estratégia de resolução
 
 Ao analise os pontos levantados pelo SonarQube verificou-se que:
 
-➖ WEB: 
-
-Constatação: 
-
-Estratégia: 
 
 ➖ BACK: 
 
-Constatação: 
+Constatação: 10 bugs ( major ) todos decorrentes de promises em que retorna argumento na função onde um retorno nulo era esperado.
 
-Estratégia: 
+Estratégia: Incrementar tsconfig.
 
-➖ PLN: 
+Constatação: 2 pontos de acesso de segurança para revisa, sendo que um trata-se de uso de cors e vulnerabilidade de impressões digitais tecnológicas.
 
-Constatação: 
+Estratégia: Certificar-se de que ativar o CORS e a divulgação das impressões digitais desta tecnologia seja segura e desenhar testes que detectem e informem para assim tratá-los.
 
-Estratégia: 
 
 <p align="right"><a href="#topo">Voltar ao Topo</p>
 
@@ -83,7 +80,7 @@ Estratégia:
 As tarefas foram divididas em três partes: back-end, front-end e PLN, ao final da sprint chegamos ao resultado final, encontrado a baixo:
 
 <p align = "center">
-<img src = >
+<img src = "https://github.com/ForDevs-Fatec/Documentation/blob/Sprint-2/Burndown%20sprint%202.png" >
 
 <span id="Links">
 
