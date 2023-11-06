@@ -23,10 +23,23 @@ Site com dashboard mais lapidado e campo com motor de busca com aplicação de P
 
 <span id="Entrega">
 
-## ✅ Entregas Sprint 2
+## ✅ Entregas Sprint 3
+
+Site com todas as funcionalidades aplicadas na Pipeline: 
+
+➖ Normalização dos dados, 
+
+➖ Motor de busca, 
+
+➖ Classificação de Tema, 
+
+➖ Analise de sentimentos e 
+
+➖ Métricas
+
+Sendo necesárias pequenas melhorias.
 
 <p align = "center">
-<img src = "">
 
 
 <p align="right"><a href="#topo">Voltar ao Topo</p>
@@ -37,7 +50,7 @@ Site com dashboard mais lapidado e campo com motor de busca com aplicação de P
 ## 📦️ Backlog da Sprint
 
 <p align = "center">
-<img src = "">
+<img src = "https://github.com/ForDevs-Fatec/Documentation/blob/Sprint-3/Sprint%203.jpg">
 
 <p align="right"><a href="#topo">Voltar ao Topo</p>
 
@@ -45,17 +58,19 @@ Site com dashboard mais lapidado e campo com motor de busca com aplicação de P
 
 ## 📝 Análise estática dos códigos
 
-<img src = "">
+<img src = "https://github.com/ForDevs-Fatec/Documentation/blob/Sprint-3/Analise%20sprint%203.jpg">
 
 ### ❗ Planejamento e Estratégia de resolução
 
 Ao analise os pontos levantados pelo SonarQube verificou-se que:
 
-➖ : 
+➖ BACK: 
 
-Constatação: 
+Constatação: 10 bugs ( major ) permanecer todos decorrentes de promises em que retorna argumento na função onde um retorno nulo era esperado.
 
-Estratégia:
+Constatação: 2 pontos de acesso de segurança, sendo que um trata-se de uso de cors e outro de impressões digitais tecnológicas.
+
+Estratégia: 
 
 <p align="right"><a href="#topo">Voltar ao Topo</p>
 
@@ -67,7 +82,7 @@ Estratégia:
 As tarefas foram divididas em três partes: back-end, front-end e PLN, ao final da sprint chegamos ao resultado final, encontrado a baixo:
 
 <p align = "center">
-<img src = "" >
+<img src = "https://github.com/ForDevs-Fatec/Documentation/blob/Sprint-3/Burndown%20sprint%203.jpg" >
 
 <span id="Links">
 
