@@ -61,7 +61,7 @@ O projeto visa utilizar Inteligência Artificial em processamento de linguagem n
 01          | ✅  Entregue  | 24/09/2023  | <a href="https://github.com/ForDevs-Fatec/Documentation/tree/Sprint-1">Sprint 1</a> |
 02          | ✅  Entregue  | 15/10/2023  | <a href="https://github.com/ForDevs-Fatec/Documentation/tree/Sprint-2">Sprint 2</a>
 03          | ✅  Entregue | 05/11/2023   | <a href="https://github.com/ForDevs-Fatec/Documentation/tree/Sprint-3">Sprint 3 </a>
-04          | Inicio em 06/11| 26/11/2023   | Sprint 4 
+04          | Em Desenvolvimento | 26/11/2023   | Sprint 4 
 
  
  <p align="right"><a href="#topo">Voltar ao Topo</p> 
