@@ -64,7 +64,6 @@ Estratégia:
 As tarefas foram divididas em três partes: back-end, front-end e PLN, ao final da sprint chegamos ao resultado final, encontrado a baixo:
 
 <p align = "center">
-<img src = "https://github.com/ForDevs-Fatec/Documentation/blob/Sprint-3/Burndown%20sprint%203.jpg" >
   
 <span id="Links">
 
