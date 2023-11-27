@@ -44,6 +44,7 @@ Site com todas as funcionalidades aplicadas na Pipeline:
 ## 📦️ Backlog da Sprint
 
 <p align = "center">
+<img src = "https://github.com/ForDevs-Fatec/Documentation/blob/Sprint-4/Sprint%204.jpg">
 
 <p align="right"><a href="#topo">Voltar ao Topo</p>
 
@@ -64,6 +65,7 @@ Estratégia:
 As tarefas foram divididas em três partes: back-end, front-end e PLN, ao final da sprint chegamos ao resultado final, encontrado a baixo:
 
 <p align = "center">
+<img src = "https://github.com/ForDevs-Fatec/Documentation/blob/Sprint-4/Burndown%20sprint%204.png" >
   
 <span id="Links">
 
